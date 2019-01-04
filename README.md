@@ -20,7 +20,6 @@ _`.editorconfig`, `.eslintrc`, `.gitattributes`, `.gitignore`, `.travis.yml`, `p
 * С помощию фильтров можно просматривать доступные предложения для аренды жилья, в соответствии с вашими предпочтениями.
 * Так же можно разместить свое предложение об аренде.
 ---
-### Для запуска приложения перейдите по ссылке https://golubevd.github.io/keksobooking
 
 Репозиторий создан для обучения на интенсивном онлайн‑курсе «[Профессиональный JavaScript](https://htmlacademy.ru/intensive/javascript)», уровень 1 от [HTML Academy](https://htmlacademy.ru).
 
